@@ -1,5 +1,5 @@
 ### Olá, eu sou a Daniele de Almeida Silva 👋
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://daniele-de-almeida-silva.com)
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniele-de-almeida-silva-920b5a23a/)
 
 ![Daniele GiitHub stats](https://github-readme-stats.vercel.app/api?username=DanieleAlmeidaSilva&show_icons=true&theme=radical)
 
